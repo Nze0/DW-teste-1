@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(11, 223, 238);}
+
+h1 {color: blue; 
+    background-color: aquamarine;
+    text-align: center;
+    
+}
+
+h2 {
+    color: rgb(226, 43, 217);
+}
+
+p {
+    color: chocolate; 
+    font-size: 25px;
+}
+
+#principal {
+    color: darkgreen;
+    font-size: 20px;
+}
+
+.importante {
+    color: rgb(76, 0, 255);
+}
+
+strong{
+    color: black;
+}
